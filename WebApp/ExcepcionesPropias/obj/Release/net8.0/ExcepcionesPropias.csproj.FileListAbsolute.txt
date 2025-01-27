@@ -1,0 +1,13 @@
+C:\Users\Stefania\Desktop\SiurXp\WebApp\ExcepcionesPropias\bin\Release\net8.0\ExcepcionesPropias.deps.json
+C:\Users\Stefania\Desktop\SiurXp\WebApp\ExcepcionesPropias\bin\Release\net8.0\ExcepcionesPropias.dll
+C:\Users\Stefania\Desktop\SiurXp\WebApp\ExcepcionesPropias\bin\Release\net8.0\ExcepcionesPropias.pdb
+C:\Users\Stefania\Desktop\SiurXp\WebApp\ExcepcionesPropias\obj\Release\net8.0\ExcepcionesPropias.csproj.AssemblyReference.cache
+C:\Users\Stefania\Desktop\SiurXp\WebApp\ExcepcionesPropias\obj\Release\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefania\Desktop\SiurXp\WebApp\ExcepcionesPropias\obj\Release\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\Stefania\Desktop\SiurXp\WebApp\ExcepcionesPropias\obj\Release\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\Stefania\Desktop\SiurXp\WebApp\ExcepcionesPropias\obj\Release\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\Stefania\Desktop\SiurXp\WebApp\ExcepcionesPropias\obj\Release\net8.0\ExcepcionesPropias.sourcelink.json
+C:\Users\Stefania\Desktop\SiurXp\WebApp\ExcepcionesPropias\obj\Release\net8.0\ExcepcionesPropias.dll
+C:\Users\Stefania\Desktop\SiurXp\WebApp\ExcepcionesPropias\obj\Release\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\Stefania\Desktop\SiurXp\WebApp\ExcepcionesPropias\obj\Release\net8.0\ExcepcionesPropias.pdb
+C:\Users\Stefania\Desktop\SiurXp\WebApp\ExcepcionesPropias\obj\Release\net8.0\ref\ExcepcionesPropias.dll

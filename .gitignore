@@ -1,0 +1,22 @@
+# Archivos de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de configuración de paquetes
+packages/
+*.nupkg
+*.snupkg
+
+# Archivos de sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.temp
+
+# Ignorar archivos de log
+[Ll]og/
